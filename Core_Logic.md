@@ -5,3 +5,12 @@
 § 第二部分：能量边界（The Energy Vector）
 描述： 引入热力学第二定律，定义演化的“单向性”。
 核心内容： 明确演化无目的，但能量有方向。引出纵向演化公式：$1 + X \to 1'$。
+
+
+
+演化公式：
+$$
+\sum_{i} 0_{i} \quad 
+\xrightarrow[\text{Threshold}]{\text{Coupling}} 
+\quad \mathbf{1}_{\text{steady}} + \sum_{j} X_{j}
+$$
