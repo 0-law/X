@@ -12,6 +12,10 @@ $$
 \sum_{i} 0_{i} \quad \xrightarrow[\text{Threshold}]{\text{Coupling}} \quad \mathbf{1}_{\text{steady}} + \sum_{j} X_{j}
 $$
 
+$$
+\sum_{i=1}^{n} 0_i \;\xrightarrow[\substack{\text{Threshold}\\ n\ge 2}] {\text{Coupling}}\; \mathbf{1}_{\mathrm{steady}} + \sum_{j=1}^{m} X_j, \qquad m \ge 2
+$$
+
 简写
 
 20min​→1→2Xmin​
