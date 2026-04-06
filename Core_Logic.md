@@ -8,8 +8,10 @@
 
 
 演化公式：
-
 $$
 \sum_{i} 0_{i} \quad \xrightarrow[\text{Threshold}]{\text{Coupling}} \quad \mathbf{1}_{\text{steady}} + \sum_{j} X_{j}
 $$
 
+简写
+
+1↔2X
